@@ -551,8 +551,8 @@ display: grid;
     }
     .main h1{
         font-size: small;
-        /* position: absolute;
-        right: 0; */
+        position: absolute;
+        right: 0;
     }
     .main p{
         font-size: small;
@@ -565,7 +565,7 @@ display: grid;
 
     }
     .review{
-        width: 89%;
+        width: 50%;
         flex-wrap: wrap;
     }
 }
