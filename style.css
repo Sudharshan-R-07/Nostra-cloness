@@ -552,7 +552,7 @@ display: grid;
     .main h1{
         font-size: small;
         position: relative;
-        right: 0;
+        left: 0;
     }
     .main p{
         font-size: small;
