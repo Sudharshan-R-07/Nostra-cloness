@@ -551,7 +551,7 @@ display: grid;
     }
     .main h1{
         font-size: small;
-        position: absolute;
+        position: relative;
         right: 0;
     }
     .main p{
