@@ -551,12 +551,12 @@ display: grid;
     }
     .main h1{
         font-size: small;
-        position: relative;
+         
         left: 0;
     }
     .main p{
         font-size: small;
-        position: absolute;
+        /* position: absolute; */
         width: 38%;
         right: 0;
     }
